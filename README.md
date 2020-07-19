@@ -1,4 +1,4 @@
-Hi! 👋
+## Hi! 👋
 
 - I'm currently the Co-Founder and CTO of [Meadow](https://getmeadow.com)
 - Co-Created [Narwhal for reddit](http://getnarwhal.com/)
